@@ -1,6 +1,6 @@
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
-# ChatGPT Outline（Demo）
+# ChatGPT Outline (Community Edition)
 
 长对话滚动查找，非常痛苦。
 
