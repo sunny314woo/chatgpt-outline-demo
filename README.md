@@ -1,6 +1,6 @@
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
-# ChatGPT Outline (Demo)
+# ChatGPT Outline (Community Edition)
 
 Scrolling long ChatGPT conversations is painful.
 
