@@ -1,10 +1,12 @@
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
-# ChatGPT Outline (Community Edition)
+# ChatGPT Outline (Demo)
 
 Scrolling long ChatGPT conversations is painful.
 
 This extension turns any ChatGPT conversation into a clean, clickable outline — so you can jump instead of scroll.
+
+![ChatGPT Outline demo](./jump-ezgif.com-crop.gif)
 
 ---
 
@@ -30,6 +32,8 @@ This started as a small tool to make navigation easier during my own daily use.
 This is a lightweight, source-available version focused purely on navigation.
 
 It is designed to stay simple, local-first, and easy to inspect.
+
+Only the first 15 outline items can jump in this demo build.
 
 ---
 

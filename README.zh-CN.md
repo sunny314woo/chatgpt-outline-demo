@@ -1,10 +1,12 @@
-English | 简体中文
+[English](./README.md) | [简体中文](./README.zh-CN.md)
 
-# ChatGPT Outline（社区版）
+# ChatGPT Outline（Demo）
 
 长对话滚动查找，非常痛苦。
 
 这个插件会把 ChatGPT 对话变成一个清晰、可点击的目录，让你可以直接跳转，而不是一直滚动。
+
+![ChatGPT Outline 演示](./jump-ezgif.com-crop.gif)
 
 ---
 
@@ -30,6 +32,8 @@ English | 简体中文
 这是一个轻量、可查看源码的版本，只保留最核心的导航功能。
 
 整体设计是：简单、本地运行、易于理解。
+
+当前 Demo 版仅前 15 条目录支持点击跳转。
 
 ---
 
