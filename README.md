@@ -1,88 +1,86 @@
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
-# ChatGPT Outline (Demo)
+# ChatGPT Outline (Community Edition)
 
-This folder contains a minimal, source-available demo build of ChatGPT Outline.
+Scrolling long ChatGPT conversations is painful.
 
-## Overview
+This extension turns any ChatGPT conversation into a clean, clickable outline — so you can jump instead of scroll.
 
-It is a local-only browser extension focused on one simple job:
+---
 
-- generate a clean outline from a ChatGPT conversation
-- let you click an outline item to jump to the matching message
-- keep the outline refreshed while the conversation changes
-- provide a fixed-width sidebar with left/right switching
+## What it does
 
-## What This Demo Includes
+- generate a clean outline from a ChatGPT conversation  
+- click any item to jump instantly  
+- automatically refresh as the conversation grows  
+- simple sidebar with left / right switching  
 
-- outline extraction from the current ChatGPT page
-- click-to-jump navigation
-- temporary highlight after navigation
-- automatic outline refresh
-- fixed-width sidebar
-- left/right sidebar switching
+---
 
-## What This Demo Does Not Include
+## Why this exists
 
-- activation, license, trial, payment, or remote entitlement logic
-- payment or remote entitlement checks
-- highlight marking or focused highlight view
-- export or markdown export
-- inbox or external integrations
-- any commercial back-end services
+When conversations get long, scrolling becomes the bottleneck.
 
-## Positioning
+This started as a small tool to make navigation easier during my own daily use.
 
-This is a simple, inspectable, source-available build focused purely on navigation.
+---
 
-Over time, I ended up building a more complete version for my own workflow, with things like:
+## About this version
 
-- highlighting important parts
-- exporting conversations
-- smoother navigation across long threads
+This is a lightweight, source-available version focused purely on navigation.
 
-Those advanced and commercial features are not included in this demo edition.
+It is designed to stay simple, local-first, and easy to inspect.
 
-Originally, this just started as a small browser extension for myself.
+---
 
-## Latest Version
+## Full version
 
-Get the latest version on Chrome Web Store:
+Over time, I built a more complete version for my own workflow, including:
 
-[Get the latest version on Chrome Web Store](https://chromewebstore.google.com/detail/chatgpt-outline-%E2%80%93-navigat/opbngifmlnoahbhjhgmngkggedlofddj)
+- highlighting important parts  
+- exporting conversations  
+- smoother navigation across long threads  
 
-## Official Product Page
+You can try the full version here:
 
-Learn more about the full product here:
+👉 [Install from Chrome Web Store](https://chromewebstore.google.com/detail/chatgpt-outline-%E2%80%93-navigat/opbngifmlnoahbhjhgmngkggedlofddj)
 
-[ChatGPT Outline Pro](https://wisteriasoftware.uk/outline-pro)
+👉 [Official product page](https://wisteriasoftware.uk/outline-pro)
 
-## Privacy And Data Handling
+---
 
-- chat content is processed locally in the browser
-- this demo build does not upload conversation content to a remote server
-- this demo build does not include remote entitlement checks, cloud sync, or analytics collection
-- the only browser storage used here is lightweight local state such as sidebar position preferences
+## Privacy
 
-## Local Development
+- chat content is processed locally in the browser  
+- no conversation data is uploaded in this version  
+- no analytics or tracking  
+- only minimal local storage (e.g. sidebar position)
 
-Load this folder as an unpacked Chrome/Chromium extension.
+---
+
+## Local development
+
+Load this folder as an unpacked extension in Chrome / Chromium.
 
 Everything runs locally in the browser.
 
+---
+
 ## License
 
-This demo build is distributed under the custom license in [LICENSE](./LICENSE).
+This version is distributed under the custom license in [LICENSE](./LICENSE).
 
-It is not released under MIT, Apache-2.0, or other permissive open source licenses.
+It is not released under MIT / Apache-2.0 or other permissive open source licenses.
 
-## Brand And Commercial Rights
+---
 
-Use of the code does not grant rights to:
+## Brand & commercial rights
 
-- the product name
-- branding and visual identity
-- official domains and storefronts
-- commercial packaging and paid feature sets
+Use of this code does NOT grant rights to:
+
+- product name  
+- branding or visual identity  
+- official domains or storefronts  
+- commercial packaging or paid feature sets  
 
 See [NOTICE](./NOTICE) for details.
