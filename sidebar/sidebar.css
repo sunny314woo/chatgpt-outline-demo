@@ -1,0 +1,7 @@
+/*
+ * Styles for the ChatGPT Outline (Demo) content script.
+ *
+ * Most UI styles now live inline in sidebar/sidebar.js so this stylesheet
+ * stays intentionally minimal and avoids carrying over old commercial UI
+ * classes from earlier builds.
+ */

@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.iml
+.history/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Build / package artifacts
+dist/
+build/
+*.zip
+*.crx
+*.pem
+
+# Coverage
+coverage/
+.coverage

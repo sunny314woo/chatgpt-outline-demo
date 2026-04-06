@@ -1,0 +1,75 @@
+ChatGPT Outline (Demo) License
+
+Copyright (c) 2026 Wisteria Software Ltd.
+All rights reserved except as expressly granted below.
+
+1. Scope
+
+This license applies only to the code and files contained in this demo folder.
+This license does not grant rights to any separate commercial edition, hosted service, paid feature, server-side system, trademark, logo, website content, pricing material, or customer-facing commercial workflow.
+
+2. Permitted Use
+
+Subject to the conditions below, you may:
+
+- use, copy, and modify this demo build for personal use
+- use, copy, and modify this demo build for education, research, and evaluation
+- share unmodified or modified copies of this demo build for non-commercial purposes
+
+3. Conditions
+
+If you copy, modify, or redistribute this demo build, you must:
+
+- keep this license file with the code
+- keep existing copyright and attribution notices
+- clearly mark material modifications
+- not imply endorsement by Wisteria Software Ltd.
+
+4. Commercial Use Is Not Permitted
+
+You may not, without prior written permission from Wisteria Software Ltd.:
+
+- sell this software
+- sublicense this software for a fee
+- offer this software as part of a paid product, paid service, or paid subscription
+- use this software in a product or service for which you charge money, directly or indirectly
+- bundle this software into a commercial SaaS, extension, desktop app, consulting package, or managed service
+- use this software to compete commercially with the official commercial edition
+- remove this license and redistribute the code under a permissive commercial license
+
+For clarity, "commercial use" includes use intended to generate revenue, acquire paying customers, support a paid offering, or reduce the cost of providing a paid offering.
+
+5. No Trademark Or Brand License
+
+This license does not grant any right to use:
+
+- "ChatGPT Outline" as a product name
+- "Wisteria Software" or "Wisteria Suite"
+- any logo, badge, icon, trade dress, marketing copy, domain name, or brand asset of Wisteria Software Ltd.
+
+Any permitted nominative reference must be truthful and must not imply sponsorship, affiliation, or endorsement.
+
+6. Patent And Other Rights
+
+No patent license, trademark license, publicity right, or other intellectual property right is granted except the limited copyright license stated above.
+
+7. Termination
+
+Any use outside the scope of this license automatically terminates your rights under it.
+Upon termination, you must stop using and distributing this demo build.
+
+8. No Warranty
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+9. Limitation Of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WISTERIA SOFTWARE LTD. SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THE SOFTWARE.
+
+10. Commercial Licensing
+
+If you want commercial rights, contact Wisteria Software Ltd. for a separate written commercial license.
+
+11. Important Note
+
+This is a source-available non-commercial license, not an OSI-approved open source license.

@@ -1,0 +1,51 @@
+NOTICE
+
+ChatGPT Outline (Demo) is a source-available demo build published by Wisteria Software Ltd.
+
+ChatGPT Outline (Demo) 是由 Wisteria Software Ltd. 发布的 source-available Demo 版本。
+
+Brand, product, and commercial rights are reserved.
+
+品牌、产品和商业权利均被保留。
+
+The following are not licensed to you by the source code release in this folder:
+
+以下内容不会因为本目录源码的公开而授权给你：
+
+- the "ChatGPT Outline" product branding as used in commerce
+- the "Wisteria Software" and "Wisteria Suite" names, logos, and trade dress
+- the official website, domains, storefronts, pricing pages, checkout flows, and marketing assets
+- the commercial edition feature set, packaging, positioning, or product roadmap
+- any server-side activation, licensing, billing, entitlement, or customer operations systems
+
+- 在商业环境中使用的 “ChatGPT Outline” 产品品牌
+- “Wisteria Software” 和 “Wisteria Suite” 的名称、标志和整体品牌识别
+- 官方网站、域名、商店页面、定价页、结账流程和营销素材
+- 商业版的功能集合、包装方式、定位方式或产品路线
+- 任何服务端激活、授权、计费、权限或客户运营系统
+
+No permission is granted to market a fork, derivative, or redistributed version using Wisteria Software branding in a way that suggests origin, endorsement, partnership, or continuity with the official product.
+
+你不得使用 Wisteria Software 品牌去推广 fork、衍生版或再发布版本，使其看起来像官方出品、官方背书、官方合作或官方延续版本。
+
+If you redistribute modified versions for non-commercial purposes, you should:
+
+如果你出于非商业目的再发布修改版，建议你：
+
+- use your own project name
+- remove or replace Wisteria branding where appropriate
+- clearly state that your version is unofficial and not affiliated with Wisteria Software Ltd.
+
+- 使用你自己的项目名称
+- 在适当位置移除或替换 Wisteria 品牌元素
+- 明确说明你的版本是非官方版本，且与 Wisteria Software Ltd. 无关联
+
+Official site:
+
+官方网站：
+
+- https://wisteriasoftware.uk
+
+For commercial licensing, trademark permissions, or official partnership discussions, contact Wisteria Software Ltd. separately.
+
+如需商业授权、商标许可或正式合作，请另行联系 Wisteria Software Ltd.
